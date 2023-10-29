@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kondo0602)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kondo0602/kondo0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
