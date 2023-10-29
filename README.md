@@ -1,4 +1,4 @@
-### About kondo0602
+**Shun Kondo**
 
 #### Skills
 
