@@ -9,7 +9,7 @@
   - 📝  I’m currently learning **Flutter** and interested in **creative coding**.
   - 🎮  I love web frontend development, comics, video games, and pixel art. 
 
-<img src="https://github.com/user-attachments/assets/8900c229-af20-4910-87d7-fc3614cc7bdc" width="600" height="200" alt="" />
+<img src="https://github.com/user-attachments/assets/8900c229-af20-4910-87d7-fc3614cc7bdc" width="846" height="282" alt="" />
   
   ## Status
   | <img src="https://github-readme-stats.vercel.app/api?username=kondo0602&show_icons=true&theme=vue" alt="kondo0602" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kondo0602&layout=compact&hide=html&theme=vue" alt="kondo0602" /> |
